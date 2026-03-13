@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sent Out Project ($PAIR) 👣
 
-<!--
-**sentoutmission-cpu/Sentoutmission-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Shared Success, Inclusive Growth"
 
-Here are some ideas to get you started:
+I built **$PAIR** on the Solana network to prove that you don't need a fortune to start building a future. Our mission is centered on **inclusive growth**—creating a path where anyone can invest just **$1 a week** and be part of a transparent, scalable ecosystem. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No hype, no bots—just honest growth for the everyday person.
+
+---
+
+### 🔗 Official Project Links
+* **X (Twitter):** [sentoutofficial](https://x.com/sentoutofficial)
+* **Telegram:** [SentOutOfficial](https://t.me/SentOutOfficial)
+* 
+* **Contract Address:** `6Ld5jzUKwNAjvv6uHC4DNpWo2rRne6PygoZo6rr7pump`
+* 
