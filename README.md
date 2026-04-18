@@ -1,4 +1,5 @@
-THE HARDWARE GOVERNOR: DETERMINISTIC SAFETY FOR THE SILICON AGE
+ETERMINISTIC SAFETY FOR THE SILICON AGE AND AI
+
 ​THE PROBLEM AND THE COMPETITIVE LANDSCAPE
 ​Modern civilization currently rests on a foundation of stochastic systems. Whether it is an automated vehicle, a high-precision CNC machine, or a consumer laptop, these devices rely on complex software to monitor their own health. When a microprocessor experience a high-frequency jitter, a signal scream, or a logic stall, the software often freezes alongside the hardware it was meant to protect. Our competitors currently attempt to solve this by adding more layers of code, redundant processors, or watchdog timers that are themselves subject to the same software vulnerabilities and boot-sequence delays. This creates a single point of failure where the safety mechanism is as fragile as the system it is monitoring.
 ​OUR SOLUTION AND THE HARDWARE ADVANTAGE
