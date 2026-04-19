@@ -1,3 +1,6 @@
+# PATENT PENDING: April 7th, 2026
+
+
 # Steady State Hardware Device (SSHD)
 ### The Invisible Safety Net for the Silicon Age
 
